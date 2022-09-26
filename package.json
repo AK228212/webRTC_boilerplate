@@ -1,0 +1,15 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "created for getting better idea of webrtc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AK228212",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.2"
+  }
+}
